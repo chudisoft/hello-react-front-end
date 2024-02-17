@@ -24,13 +24,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Hello React Frontend] <a name="about-project"></a>
+# 📖 [Hello React Frontend] <a name="about-project"></a>
 
-**[ Hello React Frontend]** Consuming data from api and showing on the view.
+**[Hello React Frontend]** Consuming data from api and showing on the view.
 
-# 📖 [ Backend] <a name="back"></a>
+# 📖 [Backend] <a name="back"></a>
 
-- [API related with this frontend project](https://github.com/MayPyone/hello-rails-backend)
+- [API related with this frontend project](https://github.com/Chudisoft/hello-rails-backend)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd hell-react-frontend
-  git clone https://github.com/MayPyone/hello-react-front-end.git
+  git clone https://github.com/Chudisoft/hello-react-front-end.git
 ```
 
 ### Install
